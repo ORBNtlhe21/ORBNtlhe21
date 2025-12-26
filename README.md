@@ -11,8 +11,8 @@
   - Passionate about discovering vulnerabilities and automating processes to enhance security
 
 ## 🛠️ Technical Skills  
-***Offensive Security*** - Network, Web & Active Directory Application Testing  
-***Defensive Security*** - Vulnerability Assessment, Threat Intelligence, Digital Forensics, Incident Response     
-***Automation & Scripting*** - Python, Bash, Powershell  
+  - ***Offensive Security*** - Network, Web & Active Directory Application Testing  
+  - ***Defensive Security*** - Vulnerability Assessment, Threat Intelligence, Digital Forensics, Incident Response     
+  - ***Automation & Scripting*** - Python, Bash, Powershell  
 
 ## 😃💻 Projects 
