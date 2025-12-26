@@ -32,6 +32,7 @@
 🛡️🧑‍💻 Loading ....... 80%  
 
 ## 📃👨‍🎓 Certifications  
+  - Practical Security Analyst Associate (PSAA) {Training}  
   - eLearnSecurity Junior Penetration Tester (eJPT)
   - ISC2 Certified in Cybersecurity
 
