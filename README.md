@@ -1,7 +1,8 @@
 # Welcome 🕵️‍♂️, I am Oarabile Ntlhe   
 ---
-Junior Penetration Tester | Cybersecurity Analyst | Automation  
+💻 Junior Penetration Tester | Cybersecurity Analyst | Automation  
 📍 Gauteng | South Africa 
+🚀 Passionate about security 
 
 ## 🫡 About me   
   - BSc in Information Technology graduate, **ISC2 CC** and **eJPT** certified  
@@ -10,14 +11,8 @@ Junior Penetration Tester | Cybersecurity Analyst | Automation
   - Passionate about discovering vulnerabilities and automating processes to enhance security
 
 ## 🛠️ Technical Skills  
+***Offensive Security*** - Network, Web & Active Directory Application Testing  
+***Defensive Security*** - Vulnerability Assessment, Threat Intelligence, Digital Forensics, Incident Response     
+***Automation & Scripting*** - Python, Bash, Powershell  
 
-### Offensive Security  
-
-**Tools:** Nmap, NetExec, CrackMapExec, Evil-WinRM, Burp Suite, Metasploit  
-
-### Defensive Security  
-
-### Automation & Scripting  
-  - Python, Bash, Powershell  
-
-
+## 😃💻 Projects 
