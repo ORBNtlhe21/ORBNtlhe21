@@ -1,6 +1,6 @@
 # Welcome 🕵️‍♂️, I am Oarabile Ntlhe   
 
-💻 Junior Penetration Tester | Cybersecurity Analyst | Automation  
+💻 Junior Penetration Tester | Cybersecurity Analyst | Automation & AI  
 📍 Gauteng | South Africa  
 🚀 Passionate about security 
 
